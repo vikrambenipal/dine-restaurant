@@ -16,7 +16,7 @@ const Home = () => {
     return (
         <Background>
             <Content>
-                <img src={dineLogo} />
+                <img src={dineLogo} alt="" />
                 <h1>Exquisite dining since 1989</h1>
                 <p>Experience our seasonal menu in beautiful 
                     country surroundings. 
